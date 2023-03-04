@@ -1,3 +1,2 @@
-#adawdw
-project is the best in the country 
-**awd**
+# the project
+### the project is pretty clean and compatible on almost every platform
